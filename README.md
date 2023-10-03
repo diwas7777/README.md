@@ -32,4 +32,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwas7777&" alt="diwas7777" /></p>
 
 
-[![@diwas7777's Holopin board](https://holopin.me/diwas7777)](https://holopin.io/@diwas7777)
+[![@diwas7777's Holopin board](https://holopin.me/diwas7777)](https://holopin.io/@diwas77)
